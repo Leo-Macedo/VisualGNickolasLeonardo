@@ -6,5 +6,6 @@ Esse tem a função de pegar e analisar o combustivel desejado que o cliente com
 Tem a função de contabilizar os votos de uma votação e dar o resultado falando o ganhador.<p>
 <h1> Terceiro Algoritmo</h1>
 Esses programas irão pedir um número para fazer a tabuada de 3 formas: <p>
-Usando a função enquanto. Nessa programa, a função enquanto irá repetir uma operação que adiciona 1 ao caractere "I",  que esta multiplicando o valor dado pelo usuário e ele para até que  "I" chegue ao valor de 10. <p>
+Usando a função "enquanto". Nessa programa, a função "enquanto" irá repetir uma operação que adiciona 1 ao caractere "I",  que esta multiplicando o valor dado pelo usuário e ele para até que  "I" chegue ao valor de 10. <p>
 Utilizando a função  "para", Agora nesse caso, voce irá dizer aonde começa e aonde termina, e o programa irá repetir a  operação ate voce determinado a parada.<p>
+Usando a função "repita", que vai repetir a sua operação dada até chegar no valor desejado.
