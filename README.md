@@ -1,5 +1,5 @@
 # VisualGNickolasLeonardo
-Atividades do VisualG do Nickolas Garia e Leonardo macedo 2 jogos <p>
+Atividades do VisualG do Nickolas Garcia e Leonardo Macedo 2 jogos <p>
 <h1>Primeiro Algoritmo</h1>
 Esse tem a função de pegar e analisar o combustivel desejado que o cliente comprou. Vai pegar esse tipo de combustivel, dar o desconto no tal a quantidade de litros comprados e dar o valor total para o cliente.<p>
 <h1> Segundo Algoritmo</h1>
